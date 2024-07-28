@@ -1,0 +1,41 @@
+* DOTIPE html .
+* html lang="pt-br">
+cabeça
+ * meta charset="UTF-8"> 
+ * meta name= "viewport" conteúdo="width=largura do dispositivo, escala inicial=1.0"> 
+     <title>Bot de Vendas Discord</title> 
+ Estilo: 
+ corpo { 
+             font-family: Arial, sans-serif; 
+ Display: flex; 
+             justify-content: center; 
+ itens de linha: centro; 
+ Altura: 100vh; 
+ cor de fundo: #f4f4f4; 
+         } 
+ .button-container { 
+             text-align: center; 
+         } 
+ .add-bot-botão { 
+ cor de fundo: #7289da; 
+ cor: branco; 
+ enchimento: 15px 30px; 
+ decoração de texto: nenhum; 
+ Tamanho da fonte: 18px; 
+ Raio de fronteira: 5px; 
+ transição: cor de fundo 0.3s; 
+         } 
+ .add-bot-button:hover { 
+ cor de fundo: #5a6fbf; 
+         } 
+ * estilo > 
+</cabeça
+corpo:
+ classe de div="container de botão"> 
+         <h1>Adicione nosso Bot de Vendas no Discord</h1> 
+ (a href="https: //discord.com/oauth2/authorize?client_id=SEU_CLIENT_ID e scope=bot e permissões=PERMISSOES" class="add-bot-button"> 
+ Adicionar bot 
+ (a) 
+ </div 
+/corpo:
+</html.
